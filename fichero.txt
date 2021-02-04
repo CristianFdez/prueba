@@ -1,0 +1,2 @@
+Nuevo fichero para el proyecto prueba
+para practicar con comandos

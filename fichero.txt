@@ -3,3 +3,5 @@ para practicar con comandos
 
 Introduzco un nuevo cambio en el fichero
 Otro cambio más. Y otro más.
+
+Añado el fichero a la nueva rama suma.

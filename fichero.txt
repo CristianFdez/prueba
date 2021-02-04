@@ -1,2 +1,5 @@
 Nuevo fichero para el proyecto prueba
 para practicar con comandos
+
+Introduzco un nuevo cambio en el fichero
+Otro cambio más. Y otro más.
